@@ -1,4 +1,8 @@
-**Delegazione Provinciale di Trapani – Scacchi**
+<p align="center">
+  <img src="assets/logo-delegazione-trapani.jpeg" alt="Logo Delegazione Provinciale di Trapani" width="180">
+</p>
+
+<p align="center"><strong>Delegazione Provinciale di Trapani – Scacchi</strong></p>
 
 # FORMULA 6
 ## Regolamento tecnico della manifestazione
